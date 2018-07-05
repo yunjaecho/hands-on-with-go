@@ -1,7 +1,7 @@
 package main
 
 import (
-	_ "./typeConversions"
+	_ "./map-array"
 	"fmt"
 )
 
