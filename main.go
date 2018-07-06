@@ -1,7 +1,7 @@
 package main
 
 import (
-	_ "./file-directory"
+	_ "./file-directory-new"
 	"fmt"
 )
 
