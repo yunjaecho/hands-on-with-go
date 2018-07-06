@@ -1,7 +1,7 @@
 package main
 
 import (
-	_ "./map-array"
+	_ "./file-directory"
 	"fmt"
 )
 
