@@ -1,7 +1,7 @@
 package main
 
 import (
-	_ "./file-directory-new"
+	_ "./database"
 	"fmt"
 )
 
